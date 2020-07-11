@@ -3,7 +3,7 @@ This project is based on the pose estimation model
 [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet), [ml5js](https://ml5js.org/getting-started/hello-ml5) and [KNN classifier model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm#:~:text=In%20pattern%20recognition%2C%20the%20k,examples%20in%20the%20feature%20space.&text=In%20k%2DNN%20classification%2C%20the%20output%20is%20a%20class%20membership.)
 
 
-![Figure](images/yoga.jpg)
+![Figure](https://github.com/forhadsidhu/Yoga-pose-detection/tree/master/Images/yoga.jpg)
 
 
 
@@ -26,7 +26,7 @@ Currently this system gives around 75% accuracy which can be improve by gatherin
 Pose estimation is a hot topic now-a-days. It is being used in video-surveillance system to sport analysis tasks. Some of the classical problem can be solved using pose estimation like: person count in a frame, fall detection, smart fitness tracking app etc. Basicly by using pose estimation we can observe the movement of human and take any decision. Before of deep learning arena [HoG](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf) and [SIFT](http://www.scholarpedia.org/article/Scale_Invariant_Feature_Transform) based approach used in feature extraction. But because of CNN these feature extraction process become more accurate using lots of data. 
 
 <p align="center">
-  <img width="600" height="500" src="images/posenet.gif">
+  <img width="600" height="500" src="https://github.com/forhadsidhu/Yoga-pose-detection/tree/master/Images/posenet.gif">
 </p>
 
 So,Using PoseNet we get key points of human limbs. Output of keypoints is (x,y) co-ordinate value. Then using these keypoints we can determine angles of different limb of our body or can use these point in classifier model for human acitivity detection. There are some out performing model for pose estimation like: OpenPose pose estimation model which can also be inferenced in CPU.
@@ -60,14 +60,14 @@ I collected yoga pose images from various sources (Plicks,Youtube videos etc),Re
 
 I prepared the training procedure using UI. By clicking the button we can select current frame considering this as level. Open ```index.html``` in editor from training folder, some thing will apear like below
 
-![Figure](images/train.png)
+![Figure](https://github.com/forhadsidhu/Yoga-pose-detection/tree/master/Images/train.png)
 
 
 ## Prediction
 
 open ```index.html``` file from prediction folder. it will open webcam and start predicting!
 
-![Figure](images/pred.png)
+![Figure](https://github.com/forhadsidhu/Yoga-pose-detection/tree/master/Images/pred.png)
 
 
 

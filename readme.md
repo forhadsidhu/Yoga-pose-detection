@@ -53,7 +53,7 @@ So,Using PoseNet we get key points of human limbs. Output of keypoints is (x,y) 
 ## Data Preparation
 
 
-I collected yoga pose images from various sources (Plicks,Youtube videos etc),Resize the images using ```resize.py``` . Considering these images as frame made a video using ```video.py``` by setting FPS=1.
+I collected yoga pose images from various sources (Flickrs,Youtube videos etc),Resize the images using ```resize.py``` . Considering these images as frame made a video using ```video.py``` by setting FPS=1.
 
 
 ## Training

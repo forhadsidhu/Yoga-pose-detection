@@ -1,4 +1,4 @@
-# Yoga Pose Detction (PoseNet)
+# Yoga Pose Detection (PoseNet)
 This project is based on the pose estimation model
 [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet), [ml5js](https://ml5js.org/getting-started/hello-ml5) and [KNN classifier model](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm#:~:text=In%20pattern%20recognition%2C%20the%20k,examples%20in%20the%20feature%20space.&text=In%20k%2DNN%20classification%2C%20the%20output%20is%20a%20class%20membership.)
 

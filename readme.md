@@ -8,7 +8,7 @@ This project is based on the pose estimation model
 
 
 Currently this system gives around 75% accuracy which can be improve by gathering more data and retrain and fine-tune with different classifier model.The uniqueness of the project in data preparation process which is user friendly and can be inference in real-time with browser.i trained the model with 7 (seven) yoga-pose data ('Tadasana','Urdhva Hastasana','Uttanasana','Ardha Uttanasana','Chaturanga','Urdhva Mukha Svanasana','Adho Mukha Svanasana'
-).If you have any query or need dataset please contact me via [E-mail](md.sharif.ullah.forhad@gmail.com)
+).If you have any query  please contact me via [E-mail](md.sharif.ullah.forhad@gmail.com)
 
 
 ## Table of Contents

@@ -39,6 +39,9 @@ So,Using PoseNet we get key points of human limbs. Output of keypoints is (x,y) 
 * Javascript
 * [p5.js](https://p5js.org/download/)
 
+## Running
+```python manage.py runserver```
+
 
 ## Code Structure
 - **data-preparion**: Data preparation files
